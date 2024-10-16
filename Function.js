@@ -42,10 +42,17 @@
 
 // Return Value
 
-function add(a, b){
-    return(a+b);
-}
+// function add(a, b){
+//     return(a+b);
+// }
 
 
-var res = add(2,5); // 7
-console.log(res);
+// var res = add(2,5); // 7
+// console.log(res);
+
+// Anonymous Functions
+// var sum = function(a, b){
+//     return(a + b);
+// }
+
+// console.log(sum(10, 20));
